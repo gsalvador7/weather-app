@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import './App.css';
 import { Container } from './components/Container/styles';
 import TopBar from './components/TopBar';
 import WeatherInfo from './components/WeatherInfo';

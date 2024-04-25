@@ -32,3 +32,12 @@ export const SearchIcon = styled.button`
   border: none;
   cursor: pointer;
 `;
+
+export const NotFoundMessage = styled.div`
+  display: flex;
+  justify-content: center;
+  padding-top: 0.3rem;
+  color: red;
+  font-style: italic;
+  font-size: 1.2rem;
+`;
